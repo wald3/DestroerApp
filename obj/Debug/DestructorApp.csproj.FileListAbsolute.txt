@@ -1,0 +1,7 @@
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\bin\Debug\DestructorApp.exe.config
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\bin\Debug\DestructorApp.exe
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\bin\Debug\DestructorApp.pdb
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\obj\Debug\DestructorApp.csprojAssemblyReference.cache
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\obj\Debug\DestructorApp.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\obj\Debug\DestructorApp.exe
+C:\Users\Vladislav\source\repos\DestructorApp\DestructorApp\obj\Debug\DestructorApp.pdb
